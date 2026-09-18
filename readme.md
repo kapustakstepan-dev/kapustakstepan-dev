@@ -62,6 +62,14 @@
 </picture>
 </p>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PLpgSQL](https://img.shields.io/badge/PLpgSQL-336791?style=for-the-badge)
+
 <table width="100%">
 <tr>
 <td width="25%" valign="top"><h3><a href="https://github.com/kapustakstepan-dev/Project-Restaurant">Project-Restaurant</a></h3><p>A full-fledged restaurant website with a backend and database.</p><p><sub>HTML · ⭐ 1</sub></p></td>
@@ -80,16 +88,3 @@
 </p>
 
 <hr />
-
-
-
-<h2>Contribute together</h2>
-
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
-
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&v=oss-social-1&mode=dark" width="100%" alt="Stepan community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/kapustakstepan-dev">GitHub</a></p>
-<p align="center"><sub>Stepan · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
