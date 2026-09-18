@@ -44,6 +44,15 @@
 </tr>
 </table>
 
+<h2>Contribution activity</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Stepan open-source signal" />
+</picture>
+</p>
+
 <h2>Repositories worth exploring</h2>
 
 <p align="center">
@@ -73,17 +82,6 @@
 <hr />
 
 
-
-<h2>Contribute together</h2>
-
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
-
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&v=oss-social-1&mode=dark" width="100%" alt="Stepan community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/kapustakstepan-dev">GitHub</a></p>
-<p align="center"><sub>Stepan · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
 <h2>Contribute together</h2>
 
