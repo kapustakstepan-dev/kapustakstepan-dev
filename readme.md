@@ -1,12 +1,3 @@
-<h2>Repositories worth exploring</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&repos=kapustakstepan-dev%2FProject-Casino%2Ckapustakstepan-dev%2FProject-Restaurant%2Ckapustakstepan-dev%2FJava-Core%2Ckapustakstepan-dev%2FWeb_Portfolio&v=oss-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&repos=kapustakstepan-dev%2FProject-Casino%2Ckapustakstepan-dev%2FProject-Restaurant%2Ckapustakstepan-dev%2FJava-Core%2Ckapustakstepan-dev%2FWeb_Portfolio&v=oss-projects-1&mode=dark" width="860" alt="Stepan maintainer repositories" />
-</picture>
-</p>
-
 <h2>Creative toolkit</h2>
 <br></br>
 
