@@ -1,15 +1,3 @@
-
-<table width="100%">
-<tr>
-<td width="17%" align="center"><strong>Java</strong><br /><sub>50%</sub></td>
-<td width="17%" align="center"><strong>HTML</strong><br /><sub>27%</sub></td>
-<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>8%</sub></td>
-<td width="17%" align="center"><strong>CSS</strong><br /><sub>8%</sub></td>
-<td width="17%" align="center"><strong>Python</strong><br /><sub>5%</sub></td>
-<td width="17%" align="center"><strong>Kotlin</strong><br /><sub>1%</sub></td>
-</tr>
-</table>
-
 <h2>Repositories worth exploring</h2>
 
 <p align="center">
