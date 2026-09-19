@@ -40,7 +40,7 @@ I'm a full-stack developer who enjoys working across the whole stack — from cr
 
 - 🍽️ **[RetroBite (Project-Restaurant)](https://github.com/kapustakstepan-dev/Project-Restaurant)** — a full restaurant web app (Flask + PostgreSQL) with menu browsing, cart, reservations, order history and a full admin dashboard, with multilingual support (EN/ES/UK).
 - 📚 Currently deepening my backend skills with **Spring Boot**, **Hibernate/JPA** and relational database design in Java.
-- 🌐 Building out my [personal portfolio](https://github.com/kapustakstepan-dev/Web_Portfolio) to showcase projects experience and certifications.
+- 🌐 Building out my [personal portfolio](https://github.com/kapustakstepan-dev/Web_Portfolio) to showcase projects, experience and certifications.
 - 🎰 Practicing frontend fundamentals with projects like [Project-Casino](https://github.com/kapustakstepan-dev/Project-Casino).
 
 ---
