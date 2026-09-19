@@ -73,17 +73,4 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PLpgSQL](https://img.shields.io/badge/PLpgSQL-336791?style=for-the-badge)
 
-<br></br>
-
-
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/kapustakstepan-dev/Project-Restaurant">Project-Restaurant</a></h3><p>A full-fledged restaurant website with a backend and database.</p><p><sub>HTML · ⭐ 1</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/kapustakstepan-dev/Java-Core">Java-Core</a></h3><p>Proyectos de Java</p><p><sub>Java · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/kapustakstepan-dev/Web_Portfolio">Web_Portfolio</a></h3><p>Portfolio web</p><p><sub>HTML · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Contribution trail</h2>
-
 
