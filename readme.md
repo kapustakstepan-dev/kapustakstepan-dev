@@ -11,8 +11,7 @@ I'm a full-stack developer who enjoys working across the whole stack — from cr
 - 🌍 From Ukraine
 - 💻 Full-Stack Developer — frontend, backend & databases
 - 🎓 Constantly building and shipping small projects to sharpen my skills
-- 📫 Reach me at **kapustakstepan228@gmail.com**
-
+- 
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -46,19 +45,6 @@ I'm a full-stack developer who enjoys working across the whole stack — from cr
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kapustakstepan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapustakstepan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapustakstepan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
@@ -67,9 +53,6 @@ I'm a full-stack developer who enjoys working across the whole stack — from cr
   </a>
   <a href="mailto:kapustakstepan228@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/kapustakstepan-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
