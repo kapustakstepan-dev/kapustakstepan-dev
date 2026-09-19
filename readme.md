@@ -1,15 +1,3 @@
-
-
-<h2>Why I build in public</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>Java</code> · <code>HTML</code> · <code>JavaScript</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>8 public repositories · 6 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>160 contributions · 47 active days</p></td>
-</tr>
-</table>
-
 <p>Building in public, documenting the work, and making the next contribution easier.</p>
 
 <h2>Open-source toolbox</h2>
