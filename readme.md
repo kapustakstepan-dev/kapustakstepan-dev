@@ -1,15 +1,3 @@
-<p>Building in public, documenting the work, and making the next contribution easier.</p>
-
-<h2>Open-source toolbox</h2>
-
-<p><code>kapustakstepan-dev@github ~ $ toolbox --list</code></p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Stepan open-source technology toolbox" />
-</picture>
-</p>
 
 <table width="100%">
 <tr>
