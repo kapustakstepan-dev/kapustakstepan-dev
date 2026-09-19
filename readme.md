@@ -86,11 +86,4 @@
 
 <h2>Contribution trail</h2>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=kapustakstepan-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232541221%3Fv%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Stepan contribution trail" />
-</picture>
-</p>
 
-<hr />
