@@ -11,7 +11,7 @@ I'm a full-stack developer who enjoys working across the whole stack — from cr
 - 🌍 From Ukraine
 - 💻 Full-Stack Developer — frontend, backend & databases
 - 🎓 Constantly building and shipping small projects to sharpen my skills
-- 
+  
 ---
 
 ### 🛠️ Tech Stack & Tools
